@@ -145,6 +145,12 @@ pandas>=0.19
 
 <img width="464" height="190" alt="image" src="https://github.com/user-attachments/assets/1086635e-2351-44b0-888c-db70fad81db7" />
 
+*Check deployment logs on GitHub*
+<img width="1880" height="451" alt="image" src="https://github.com/user-attachments/assets/9b30010a-a413-4f54-9d60-4ba65adb31e1" />
+
+*If deployment fails - Click on Sync*
+<img width="920" height="345" alt="image" src="https://github.com/user-attachments/assets/9ab0b526-9088-4784-bfdf-a2a1a392a80d" />
+
 ---
 
 ### 6. 📜 Deployment Logs
@@ -181,20 +187,3 @@ pandas>=0.19
 * Use live weather data APIs for real-time AQI prediction.
 * Add interactive charts for predictions.
 * Enable CI/CD pipeline for automatic deployment.
-
----
-
-### 💡 Quick Start
-
-1. Clone repo → `git clone <repo_url>`
-2. Install requirements → `pip install -r requirements.txt`
-3. Run locally →
-
-   ```bash
-   python app.py
-   ```
-
-   Access at → [http://127.0.0.1:5000](http://127.0.0.1:5000)
-4. Deploy on Azure (follow steps above).
-
-🌬️🌡️ Jaipur AQI Prediction made simple with **ML + Flask + Azure Cloud** ☁️
