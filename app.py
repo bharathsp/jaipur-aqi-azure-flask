@@ -37,4 +37,6 @@ def predict_api():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    # Use PORT provided by Azure or default 8000
+    port = int(os.environ.get("PORT", 8000))
+    app.run(host='0.0.0.0', port=port)
