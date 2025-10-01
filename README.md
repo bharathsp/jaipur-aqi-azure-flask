@@ -70,6 +70,9 @@ The trained model is deployed on **Azure Web App** so it can be accessed from an
 
     * `/` → Home page (form input).
     * `/predict` → Returns prediction based on user input.
+   
+<img width="1170" height="698" alt="image" src="https://github.com/user-attachments/assets/766d1fea-2bc6-4895-a4bb-37decfaa19ae" />
+ 
 * Frontend:
 
   * HTML templates stored in `templates/`.
