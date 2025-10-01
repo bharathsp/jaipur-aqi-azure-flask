@@ -123,6 +123,9 @@ pandas>=0.19
 ### 5. 🔗 Linking GitHub Repo
 
 1. Once deployed, go to **Resource → Deployment Center**.
+
+ <img width="428" height="110" alt="image" src="https://github.com/user-attachments/assets/d9a5dc47-ce7b-4018-a40a-bd65bc603f7c" />
+
 2. Select:
 
    * **Source Control** → GitHub
