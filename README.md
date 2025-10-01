@@ -97,6 +97,13 @@ pandas>=0.19
 
 1. Go to 👉 [portal.azure.com](https://portal.azure.com)
 2. **Create Resource** → Select **Web App**.
+   
+  <img width="296" height="128" alt="image" src="https://github.com/user-attachments/assets/a04f5ec4-aac0-4523-b956-fc02f453495e" />
+<br><br>
+<img width="644" height="385" alt="image" src="https://github.com/user-attachments/assets/49cbd6a5-b777-4b43-a459-83ece6dcc0d2" />
+<br><br>
+<img width="446" height="210" alt="image" src="https://github.com/user-attachments/assets/83ec4ae8-f16e-47c3-8943-5a354597e725" />
+
 3. Configure details:
 
    * **Subscription & Resource Group** → Create new resource group.
@@ -104,7 +111,12 @@ pandas>=0.19
    * **Runtime Stack** → `Python 3.7`
    * **Region** → Central US
    * **App Service Plan** → Free (F1)
+
+     <img width="368" height="355" alt="image" src="https://github.com/user-attachments/assets/08190274-ff3b-451f-b53d-dc0ca2a4f378" />
+
 4. Click **Review + Create** ✅
+
+<img width="368" height="459" alt="image" src="https://github.com/user-attachments/assets/04003c51-0707-4627-8f9a-11da349621ce" />
 
 ---
 
