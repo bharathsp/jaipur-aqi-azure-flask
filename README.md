@@ -148,6 +148,11 @@ pandas>=0.19
 *Check deployment logs on GitHub*
 <img width="1880" height="451" alt="image" src="https://github.com/user-attachments/assets/9b30010a-a413-4f54-9d60-4ba65adb31e1" />
 
+*Check deployment logs on Azure*
+<img width="1288" height="530" alt="image" src="https://github.com/user-attachments/assets/3d967969-79ae-4576-998c-972883a153f7" />
+
+<img width="761" height="550" alt="image" src="https://github.com/user-attachments/assets/efad602c-b930-4754-b368-a8a59e7c387d" />
+
 *If deployment fails - Click on Sync*
 <img width="920" height="345" alt="image" src="https://github.com/user-attachments/assets/9ab0b526-9088-4784-bfdf-a2a1a392a80d" />
 
