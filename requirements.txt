@@ -14,4 +14,4 @@ joblib==1.3.2
 
 # Machine Learning
 scikit-learn==1.3.0
-cloudpickle==2.3.1  # Needed if your pickle files were serialized with cloudpickle
+cloudpickle==2.2.1  # stable and compatible with Python 3.10
