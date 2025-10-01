@@ -118,20 +118,32 @@ pandas>=0.19
 
 <img width="368" height="459" alt="image" src="https://github.com/user-attachments/assets/04003c51-0707-4627-8f9a-11da349621ce" />
 
+<img width="1919" height="567" alt="image" src="https://github.com/user-attachments/assets/8030721f-1a06-4a3e-9eb2-67828a9eea89" />
+
 ---
 
 ### 5. 🔗 Linking GitHub Repo
 
 1. Once deployed, go to **Resource → Deployment Center**.
 
- <img width="428" height="110" alt="image" src="https://github.com/user-attachments/assets/d9a5dc47-ce7b-4018-a40a-bd65bc603f7c" />
+<img width="829" height="360" alt="image" src="https://github.com/user-attachments/assets/d15dba8d-b42b-406b-8387-d26a57155f30" />
+
+<img width="1800" height="735" alt="image" src="https://github.com/user-attachments/assets/72409ca8-9ad0-4497-a5d0-e26c196b15ec" />
 
 2. Select:
 
    * **Source Control** → GitHub
+     
+     <img width="795" height="314" alt="image" src="https://github.com/user-attachments/assets/b983359a-6cf2-4e6b-a09b-be7c8edc23da" />
+
    * **Build Provider** → App Service build service
    * **Configure** → Choose your **Organization, Repository, Branch**
-3. Click **Finish** → Deployment starts automatically.
+     
+     <img width="792" height="638" alt="image" src="https://github.com/user-attachments/assets/99dda552-c2e3-46ff-bb4f-f3b67169519b" />
+
+3. Click **Save** → Deployment starts automatically.
+
+<img width="464" height="190" alt="image" src="https://github.com/user-attachments/assets/1086635e-2351-44b0-888c-db70fad81db7" />
 
 ---
 
