@@ -178,6 +178,8 @@ pandas>=0.19
   * Avg Temperature
 * Click **Predict** → Get AQI prediction 🎉.
 
+<img width="353" height="465" alt="image" src="https://github.com/user-attachments/assets/207a7fc8-36e4-432d-851f-774dee79ceb0" />
+
 ---
 
 ## 🧪 Testing the App
