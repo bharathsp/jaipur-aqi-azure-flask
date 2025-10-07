@@ -18,6 +18,8 @@ The trained model is deployed on **Azure Web App** so it can be accessed from an
 * Build a **Flask Web App** with an interactive UI.
 * Deploy the app on **Azure Cloud** for public access.
 
+<img width="571" height="411" alt="arc" src="https://github.com/user-attachments/assets/4d35f9de-9046-43f0-81a9-8ec3cdc69097" />
+
 ---
 
 ## 🛠️ Tools & Technologies
